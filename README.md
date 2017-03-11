@@ -16,4 +16,5 @@
 - [Gist](https://gist.github.com/entaroadun/1653794)
 - In the last update
 
-# My name is Beili who comes from Shanghai Jiao Tong University.
+
+# My name is Beili.
