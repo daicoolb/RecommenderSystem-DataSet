@@ -7,7 +7,6 @@ These datasets are very popular in Recommender Systems which can be used as base
 - [MyPersonalityDataset](http://mypersonality.org/wiki/doku.php) myPersonality was a popular Facebook application that allowed users to take real psychometric tests, and allowed us to record (with consent!) their psychological and Facebook profiles. Currently, our database contains more than 6,000,000 test results, together with more than 4,000,000 individual Facebook profiles.
 - [Bibsonomy](http://www.kde.cs.uni-kassel.de/bibsonomy/dumps) Tag Recommendations in Social Bookmarking Systems.
 - [Delicious](http://www.dai-labor.de/en/competence_centers/irml/datasets/) plista News Recommendation Dataset and Delicious.
-- [LDOS](http://slavnik.fe.uni-lj.si/markot/Main/LDOS-PerAff-1)
 - [Movielens](https://grouplens.org/datasets/movielens/)Stable benchmark dataset. 20 million ratings and 465,000 tag applications applied to 27,000 movies by 138,000 users. Includes tag genome data with 12 million relevance scores across 1,100 tags.
 - [Jester](http://eigentaste.berkeley.edu/dataset/) Anonymous Ratings from the Jester Online Joke Recommender System.
 - [BookCrossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)  Book-Crossing Dataset.
