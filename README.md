@@ -21,17 +21,17 @@ These datasets are very popular in **Recommender Systems** which can be used as 
 - [Gist](https://gist.github.com/entaroadun/1653794) Recommendation and Ratings Public Data Sets For Machine Learning.
 - In the last update
 
-|  Data Set	        |  Users	| Items	| Ratings (Scale)	    | Density| 	Users	| Links (Type)         |	Items  |	Labels | 
-|  :----:           | :----  :|:-----:|:--------------     :|:------:|:-----: |:------           :   | :-----: |: ------:|
-|Ciao               |	7,375   |	99,746|	278,483--[1, 5]     |	0.0379%|	7,375 |111,781--Trust        |General  |         |
-|Douban             |	129,490 |	58,541|16,830,839--[1, 5]   |	0.222% |129,490	|1,692,952--Friendship |	Movie  |         |
-|Epinions (665K)	  | 40,163 	|139,738|	664,824--[1, 5]	    |0.0118% |49,289	|487,183--Trust	       | General |	       |
-|Epinions (510K)	  |  71,002	|104,356|	508,960--[1, 5]	    |0.00687%|	 	 	  |Trust	               | General |         |	 
-|Epinions (Extended)|	120,492	|755,760|	13,668,320--[1, 5]  |	0.015% |	 	 	  |Trust Distrust	       | General |         |	 
-|Flixster           |	147,612	|48,794	|8,196,077--[0.5, 5.0]|	0.1138%|787,213	|11,794,648--Friendship|	Movie	 |         | 
-|FilmTrust          |	1,508	  |2,071	|35,497--[0.5, 4.0]	  |1.14%	 |1,642	  |1,853--Trust	         |  Movie	 |         | 
-|Jester             |	59,132	|140	  |1,761,439--Explicit  |	21.28% |	 	 	 	|                      | Joke    |         |	  
-|MovieLens 100K     |	943	    |1,682	|100,000--[1, 5]      |	6.30%	 |	 	 	  |                      | Movie	 | Tag     |
-|MovieLens 1M       |	6,040	  |3,706	|1,000,209--[1, 5]	  |4.47%	 |	 	 	  |                      | Movie	 | Tag     |
-|MovieLens 10M      |	71,567	|10,681	|10,000,054--[1, 5]	  |1.308%	 |	 	 	  |                      | Movie	 | Tag     |
+|  Data Set	        |  Users	| Items	| Ratings (Scale)	    | Density| 	Users	| Links (Type)         |
+|  :----:           | :----:  |:-----:|:-------------------:|:------:|:-----: |:-----------------:   |
+|Ciao               |	7,375   |	99,746|	278,483--[1, 5]     |	0.0379%|	7,375 |111,781--Trust        |
+|Douban             |	129,490 |	58,541|16,830,839--[1, 5]   |	0.222% |129,490	|1,692,952--Friendship |	
+|Epinions (665K)	  | 40,163 	|139,738|	664,824--[1, 5]	    |0.0118% |49,289	|487,183--Trust	       | 
+|Epinions (510K)	  |  71,002	|104,356|	508,960--[1, 5]	    |0.00687%|	 	 	  |Trust	               |  
+|Epinions (Extended)|	120,492	|755,760|	13,668,320--[1, 5]  |	0.015% |	 	 	  |Trust Distrust	       | 
+|Flixster           |	147,612	|48,794	|8,196,077--[0.5, 5.0]|	0.1138%|787,213	|11,794,648--Friendship|	
+|FilmTrust          |	1,508	  |2,071	|35,497--[0.5, 4.0]	  |1.14%	 |1,642	  |1,853--Trust	         |  
+|Jester             |	59,132	|140	  |1,761,439--Explicit  |	21.28% |	 	 	 	|                      | 
+|MovieLens 100K     |	943	    |1,682	|100,000--[1, 5]      |	6.30%	 |	 	 	  |                      | 
+|MovieLens 1M       |	6,040	  |3,706	|1,000,209--[1, 5]	  |4.47%	 |	 	 	  |                      | 
+|MovieLens 10M      |	71,567	|10,681	|10,000,054--[1, 5]	  |1.308%	 |	 	 	  |                      | 
 
