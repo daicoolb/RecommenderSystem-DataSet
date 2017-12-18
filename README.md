@@ -22,7 +22,7 @@ These datasets are very popular in **Recommender Systems** which can be used as 
 - In the last update
 
 |  Data Set	|  Users	| Items	| Ratings (Scale)	| Density| 	Users	| Links (Type)|	Items |	Labels | 
-|----|----|-----|------|------|-----|------|------|
+|----|----|-----|------|------|-----|------|------|-------|
 
 
 
