@@ -21,6 +21,8 @@ These datasets are very popular in **Recommender Systems** which can be used as 
 - [Gist](https://gist.github.com/entaroadun/1653794) Recommendation and Ratings Public Data Sets For Machine Learning.
 - wait to  update
 
+**Below is the table of some statistics of above datasets.**
+
 |  Data Set	        |  Users	| Items	| Ratings (Scale)	    | Density| 	Users	| Links (Type)         |
 |:-:                |:-:      |:-:    |:-:                  |:-:     |:-:     |:-:                   |
 |Ciao               |	7,375   |	99,746|	278,483--[1, 5]     |	0.0379%|	7,375 |111,781--Trust        |
