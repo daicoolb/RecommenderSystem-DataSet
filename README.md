@@ -1,6 +1,6 @@
 ### DataSet
 
-These datasets are very popular in Recommender Systems which can be used as baseline.
+These datasets are very popular in **Recommender Systems** which can be used as baseline.
 
 - [MACLab](http://mac.citi.sinica.edu.tw/LJ#.VRGYfOHlZ40) With the text in the post, the mood tag, and the music title, this project is aimed at studying the users' moods and music emotions.
 - [DEAPdataset](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html) a dataset for emotion analysis using eeg, physiological and video signals.
