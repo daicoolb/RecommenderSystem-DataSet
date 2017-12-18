@@ -2,6 +2,9 @@
 
 These datasets are very popular in **Recommender Systems** which can be used as baseline.
 
+- [Douban](https://www.cse.cuhk.edu.hk/irwin.king.new/pub/data/douban) This is the anonymized Douban dataset contains 129,490 unique users and 58,541 unique movie items.
+- [Epinions](http://www.trustlet.org/epinions.html) Epinions is a website where people can review products.
+- [Flixster](http://socialcomputing.asu.edu/datasets/Flixster) Flixster is a social movie site allowing users to share movie ratings, discover new movies and meet others with similar movie taste.
 - [MACLab](http://mac.citi.sinica.edu.tw/LJ#.VRGYfOHlZ40) With the text in the post, the mood tag, and the music title, this project is aimed at studying the users' moods and music emotions.
 - [DEAPdataset](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/index.html) a dataset for emotion analysis using eeg, physiological and video signals.
 - [MyPersonalityDataset](http://mypersonality.org/wiki/doku.php) myPersonality was a popular Facebook application that allowed users to take real psychometric tests, and allowed us to record (with consent!) their psychological and Facebook profiles. Currently, our database contains more than 6,000,000 test results, together with more than 4,000,000 individual Facebook profiles.
