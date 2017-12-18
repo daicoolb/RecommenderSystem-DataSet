@@ -22,8 +22,7 @@ These datasets are very popular in **Recommender Systems** which can be used as 
 - wait to  update
 
 |  Data Set	        |  Users	| Items	| Ratings (Scale)	    | Density| 	Users	| Links (Type)         |
-|  :----:           | :----:  |:-----:|:-------------------:|:------:|:-----: |:-----------------:   |
-
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Ciao               |	7,375   |	99,746|	278,483--[1, 5]     |	0.0379%|	7,375 |111,781--Trust        |
 |Douban             |	129,490 |	58,541|16,830,839--[1, 5]   |	0.222% |129,490	|1,692,952--Friendship |	
 |Epinions (665K)	  | 40,163 	|139,738|	664,824--[1, 5]	    |0.0118% |49,289	|487,183--Trust	       | 
