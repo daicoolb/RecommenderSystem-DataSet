@@ -19,6 +19,7 @@ These datasets are very popular in **Recommender Systems** which can be used as 
 - [OpenStreetMap](http://planet.openstreetmap.org/planet/full-history/) The files found here are complete copies of the OpenStreetMap.org database, including editing history. These are published under an Open Data Commons Open Database License 1.0 licensed. For more information.
 - [PythonGitCode](https://github.com/lab41/hermes) Hermes is Lab41's foray into recommender systems. It explores how to choose a recommender system for a new application by analyzing the performance of multiple recommender system algorithms on a variety of datasets.
 - [Gist](https://gist.github.com/entaroadun/1653794) Recommendation and Ratings Public Data Sets For Machine Learning.
+- [Yelp](https://www.yelp.com/dataset)The Yelp dataset is a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes. Available in both JSON and SQL files, use it to teach students about databases, to learn NLP, or for sample production data while you learn how to make mobile apps
 - wait to  update
 
 **Below is the table of some statistics of above datasets.**
