@@ -21,6 +21,7 @@ These datasets are very popular in **Recommender Systems** which can be used as 
 - [Gist](https://gist.github.com/entaroadun/1653794) Recommendation and Ratings Public Data Sets For Machine Learning.
 - [Yelp](https://www.yelp.com/dataset) The Yelp dataset is a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes. Available in both JSON and SQL files, use it to teach students about databases, to learn NLP, or for sample production data while you learn how to make mobile apps
 - [AmazonReviews](http://jmcauley.ucsd.edu/data/amazon/) This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014. This dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs).
+- [CiteULike](http://www.citeulike.org/faq/data.adp) The CiteULike database is potentially useful for researchers in various fields. Physicists and computer scientists have expressed an interest in trying to analyse the structure of the data, and frequently ask for datasets to be made available. Previously this was done on an ad-hoc basis, and it relied on us remembering to update the data file. Now, there is an automatic process which runs every night producing a snapshot summary of what articles have been posted with which tags.
 - wait to  update
 
 **Below is the table of some statistics of above datasets.**
