@@ -4,7 +4,7 @@
 
 These datasets are very popular in **Recommender Systems** which can be used as baseline.
 
-- [Douban](http://socialcomputing.asu.edu/datasets/Douban) This is the anonymized Douban dataset contains 129,490 unique users and 58,541 unique movie items.
+- [Douban](http://shichuan.org/HIN_dataset.html) This is the anonymized Douban dataset contains 129,490 unique users and 58,541 unique movie items.
 - [Epinions](http://www.trustlet.org/epinions.html) Epinions is a website where people can review products.
 - [Flixster](http://socialcomputing.asu.edu/datasets/Flixster) Flixster is a social movie site allowing users to share movie ratings, discover new movies and meet others with similar movie taste.
 - [CiaoDVD](https://www.librec.net/datasets.html) CiaoDVD is a dataset crawled from the entire category of DVDs from the dvd.ciao.co.uk website in December, 2013
